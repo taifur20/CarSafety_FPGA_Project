@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="taifur" Host="taifur-B550-AORUS-MASTER" Pid="73969" HostCore="12" HostMemory="32753836">
+    </Process>
+</ProcessHandle>
